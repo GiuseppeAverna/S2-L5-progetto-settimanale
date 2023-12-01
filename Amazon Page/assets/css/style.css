@@ -1,0 +1,84 @@
+html {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+
+ #headerarticle {
+    background-color: rgb(rgb(15, 45, 166), green, blue);
+    
+    
+ }
+
+ #headerimage {
+    display: inline-block;
+ }
+
+ #tablearticle {
+background-color: blue;
+color: white
+ }
+
+ #orangearticle {
+    background-color: orange;
+    color: white;
+    text-align: center;
+ }
+
+ #firstimage {
+    background-image: url(../images/bg-image.png);
+    text-align:center;
+    color: white;
+    
+ }
+
+#firstarticlesection {
+ 
+}
+
+#firstp {
+    display: inline-block;
+}
+
+#secondp {
+    display: inline-block;
+    color: green;
+}
+
+#fourthp {
+    color: green;
+}
+
+#secondarticlesection {
+    text-align: center;
+}
+.p {
+    display: inline-block;
+    text-align: center;
+}
+
+#thirdarticlesection {
+    
+    text-align: center;
+}
+
+#fifthp {
+    display: inline-block;
+}
+
+#sixthp {
+    display: inline-block;
+    color: green;
+}
+
+#footerdiv {
+    text-align: center;
+    background-color: blue
+}
+
+#secondfooterdiv {
+    background-color: blue;
+    text-align: center;
+}
